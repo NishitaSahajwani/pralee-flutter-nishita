@@ -1,8 +1,10 @@
 import 'package:flutter/material.dart';
 import 'dart:math';
 
+import 'package:flutter_application_1/MyFirstApp.dart';
+
 void main() {
-  runApp(const MyApp());
+  runApp(const MyFirstAP());
 }
 
 class MyApp extends StatelessWidget {
