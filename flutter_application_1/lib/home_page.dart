@@ -35,7 +35,7 @@ class MyHomePage extends StatelessWidget {
                 style: TextStyle(fontSize: 25),
               ),
               const Text("Company Orders"),
-              // const MyClientsPage(),
+              const MyClientsPage(),
             ],
           ),
         ),
